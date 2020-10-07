@@ -1,5 +1,5 @@
 # From Symbolic Logic Reasoning to Soft Reasoning: A Neural-Symbolic Paradigm
-This repository contains the code for the paper [From Symbolic Logic Reasoning to Soft Reasoning: A Neural-Symbolic Paradigm](https://arxiv.org/abs/1805.07433). The goal is to build up an end-to-end neural based reasoning engine. The existing neural based models lack a reasoning engine, and they are not end-to-end training process. The repository also incorporates extra code for research as part of future work.
+This repository contains the code for the paper [From Symbolic Logic Reasoning to Soft Reasoning: A Neural-Symbolic Paradigm](). The goal is to build up an end-to-end neural based reasoning engine. The existing neural based models lack a reasoning engine, and they are not end-to-end training process. The repository also incorporates extra code for research as part of future work.
 
 ## Dataset
 All the current work data is using the [PARARULE](https://allenai.org/data/ruletaker) from Allen AI institute. The dataset has been published on [Transformers as Soft Reasoners over Language](https://arxiv.org/abs/2002.05867).
