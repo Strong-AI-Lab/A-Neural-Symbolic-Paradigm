@@ -144,5 +144,6 @@ python3 eval_pararule.py imasm_glove curr_imasm64 -f plot_attention
  ## Other links
 [DMN+] Dynamic Memory Networks for Visual and Textual Question Answering
 https://arxiv.org/abs/1603.01417
+
 [DMN] Ask Me Anything: Dynamic Memory Networks for Natural Language Processing 
 https://arxiv.org/abs/1506.07285
