@@ -141,3 +141,8 @@ python3 eval_pararule.py imasm_glove curr_imasm64 -f plot_attention
  
  Thanks to the help from [FacebookAI: fairseq](https://github.com/pytorch/fairseq) for my replication to the experiment result from [Transformers as Soft Reasoners over Language](https://arxiv.org/abs/2002.05867). Here is my replication notes [Finetuning RoBERTa on RACE tasks](https://github.com/14H034160212/fairseq/blob/master/examples/roberta/README.race.md) to the [Transformers as Soft Reasoners over Language](https://arxiv.org/abs/2002.05867).
  
+ ## Other links
+[DMN+] Dynamic Memory Networks for Visual and Textual Question Answering
+https://arxiv.org/abs/1603.01417
+[DMN] Ask Me Anything: Dynamic Memory Networks for Natural Language Processing 
+https://arxiv.org/abs/1506.07285
