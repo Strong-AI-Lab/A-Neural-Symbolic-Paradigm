@@ -136,6 +136,15 @@ python3 eval_pararule.py imasm_glove curr_imasm64 -f plot_attention
  - [NumPy](http://www.numpy.org/) - main numerical library for data vectorisation
  - [Pandas](https://pandas.pydata.org/) - helper data manipulation library
  
+ ## Citation
+```
+@unpublished{
+  title={From Symbolic Logic Reasoning to Soft Reasoning: A Neural-Symbolic Paradigm},
+  author={Qiming Bao, Michael Witbrock, Jiamou Liu},
+  year={2021}
+}
+```
+
  ## Acknowledgement
  Thanks to the author of the [DeepLogic: Towards End-to-End Differentiable Logical Reasoning](https://github.com/nuric/deeplogic), for his advice and help in understanding and reproducing his work. This is of great help to me in completing this research and future research.
  
