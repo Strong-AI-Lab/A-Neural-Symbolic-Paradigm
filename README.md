@@ -156,3 +156,6 @@ https://arxiv.org/abs/1603.01417
 
 [DMN] Ask Me Anything: Dynamic Memory Networks for Natural Language Processing 
 https://arxiv.org/abs/1506.07285
+
+[Hyperas] Bayesian optimization of automated hyperparameter tuning
+https://github.com/maxpumperla/hyperas
