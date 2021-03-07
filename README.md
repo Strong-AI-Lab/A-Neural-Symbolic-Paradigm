@@ -165,3 +165,6 @@ https://arxiv.org/abs/1503.08895
 
 [MemN2N implementation on bAbI tasks with very nice interactive demo] End-To-End Memory Networks for Question Answering
 https://github.com/14H034160212/MemN2N-babi-python
+
+Memory Networks
+https://arxiv.org/pdf/1410.3916.pdf
