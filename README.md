@@ -159,3 +159,9 @@ https://arxiv.org/abs/1506.07285
 
 [Hyperas] Bayesian optimization of automated hyperparameter tuning
 https://github.com/maxpumperla/hyperas
+
+[MemN2N] End-To-End Memory Networks
+https://arxiv.org/abs/1503.08895
+
+[MemN2N implementation on bAbI tasks with very nice interactive demo] End-To-End Memory Networks for Question Answering
+https://github.com/14H034160212/MemN2N-babi-python
