@@ -1,11 +1,11 @@
 # From Symbolic Logic Reasoning to Soft Reasoning: A Neural-Symbolic Paradigm
-This repository contains the code for the paper [From Symbolic Logic Reasoning to Soft Reasoning: A Neural-Symbolic Paradigm](). The goal is to build up an end-to-end neural based reasoning engine. The existing neural based models lack a reasoning engine, and they are not end-to-end training process. The repository also incorporates extra code for research as part of future work.
+This repository contains the code for the paper [From Symbolic Logic Reasoning to Soft Reasoning: A Neural-Symbolic Paradigm](https://www.ainz.ai/posters/). The goal is to build up an end-to-end neural based reasoning engine. The existing neural based models lack a reasoning engine, and they are not end-to-end training process. The repository also incorporates extra code for research as part of future work.
 
 ## Dataset
 All the current work data is using the [PARARULE](https://allenai.org/data/ruletaker) from Allen AI institute. The dataset has been published on [Transformers as Soft Reasoners over Language](https://arxiv.org/abs/2002.05867).
 
 ## Word-level Embedding
-The word vector representation is based on [Glove](https://nlp.stanford.edu/projects/glove/). In this paper, we use [glove.6B.zip](http://nlp.stanford.edu/data/glove.6B.zip).
+The word vector representation is based on [GloVe](https://nlp.stanford.edu/projects/glove/). In this paper, we use [glove.6B.zip](http://nlp.stanford.edu/data/glove.6B.zip).
 
 [glove.6B.zip](http://nlp.stanford.edu/data/glove.6B.zip)
 
