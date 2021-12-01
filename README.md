@@ -138,10 +138,11 @@ python3 eval_pararule.py imasm_glove curr_imasm64 -f plot_attention
  
  ## Citation
 ```
-@unpublished{
+@InProceedings{
   title={From Symbolic Logic Reasoning to Soft Reasoning: A Neural-Symbolic Paradigm},
   author={Qiming Bao, Michael Witbrock, Jiamou Liu},
-  year={2021}
+  year={2021},
+  publisher={New Zealand Workshop on Artificial Intelligence Research}
 }
 ```
 
