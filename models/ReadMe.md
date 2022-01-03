@@ -24,4 +24,4 @@ The original code for dot product is only one line.
 
 Here is our model architecture.
 
-<img width="374" alt="IMA_GloVe_GA" src="https://user-images.githubusercontent.com/23516191/147908506-05866a83-b3a5-49fb-add5-164007776727.PNG">
+<img width="800" alt="IMA_GloVe_GA" src="https://user-images.githubusercontent.com/23516191/147908506-05866a83-b3a5-49fb-add5-164007776727.PNG">
