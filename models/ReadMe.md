@@ -1,5 +1,5 @@
 ## Gate Attention
-We add the gate attention at here instead of the dot product.
+We add the Gate Attention at here instead of the dot product.
 Here is the code that we updated. You can check the code from the `ima_gate3.py` and `ima_glove_gate3.py`.
 ```
 # Unify every rule and weighted sum based on attention
