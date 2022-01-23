@@ -1,6 +1,6 @@
 ## Gate Attention
 We add the Gate Attention here instead of the dot product.
-Here is the code that we updated. You can check the code from the `ima_gate3.py` and `ima_glove_gate3.py`.
+Here is the code that we updated. You can check the code from the `ima_gate3.py` and `ima_glove_gate3.py`. ALso there is an another updating for the gate attention in the `ima_glove_gate4.py`.
 ```
 # Unify every rule and weighted sum based on attention
     new_states = unifier(embedded_ctx_preds, initial_state=[state])
