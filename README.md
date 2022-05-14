@@ -148,7 +148,7 @@ python3 eval_pararule.py imasm_glove curr_imasm64 -f plot_attention
 ```
 
  ## Acknowledgement
- Thanks to the author of the [DeepLogic: Towards End-to-End Differentiable Logical Reasoning](https://github.com/nuric/deeplogic), for his advice and help in understanding and reproducing his work. This is of great help to me in completing this research and future research. Also Thanks Tim Hartill who developed CONCEPTRULES V1 and CONCEPTRULES V2 datasets.
+ Thanks to the author of the [DeepLogic: Towards End-to-End Differentiable Logical Reasoning](https://github.com/nuric/deeplogic), for his advice and help in understanding and reproducing his work. This is of great help to me in completing this research and future research. Also Thanks [Tim Hartil](https://github.com/timhartill) who developed CONCEPTRULES V1 and CONCEPTRULES V2 datasets.
  
  Thanks to the help from [FacebookAI: fairseq](https://github.com/pytorch/fairseq) for my replication to the experiment result from [Transformers as Soft Reasoners over Language](https://arxiv.org/abs/2002.05867). Here is my replication notes [Finetuning RoBERTa on RACE tasks](https://github.com/14H034160212/fairseq/blob/master/examples/roberta/README.race.md) to the [Transformers as Soft Reasoners over Language](https://arxiv.org/abs/2002.05867).
  
