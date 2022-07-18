@@ -137,6 +137,17 @@ python3 eval_pararule.py imasm_glove curr_imasm64 -f plot_attention
  - [Pandas](https://pandas.pydata.org/) - helper data manipulation library
  
  ## Citation
+For the paper, please use the following as the reference.
+```
+@InProceedings{
+  title={Multi-Step Deductive Reasoning Over Natural Language: An Empirical Study on Out-of-Distribution Generalisation},
+  author={Qiming Bao, Alex Peng, Tim Hartill, Neset Tan, Zhenyun Deng, Michael Witbrock, Jiamou Liu},
+  year={2022},
+  publisher={The 2nd International Joint Conference on Learning & Reasoning and 16th International Workshop on Neural-Symbolic Learning and Reasoning (IJCLR-NeSy 2022)}
+}
+```
+
+For the poster, please use the following as the reference.
 ```
 @InProceedings{
   title={From Symbolic Logic Reasoning to Soft Reasoning: A Neural-Symbolic Paradigm},
